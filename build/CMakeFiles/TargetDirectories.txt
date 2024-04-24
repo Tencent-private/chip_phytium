@@ -1,0 +1,3 @@
+/home/zero/workplace/github/chip_phytium/build/CMakeFiles/vedio_opencv.dir
+/home/zero/workplace/github/chip_phytium/build/CMakeFiles/edit_cache.dir
+/home/zero/workplace/github/chip_phytium/build/CMakeFiles/rebuild_cache.dir
